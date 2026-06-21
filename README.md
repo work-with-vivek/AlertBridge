@@ -79,7 +79,7 @@ AlertBridge
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AlertBridge.git
+git clone https://github.com/work-with-vivek/AlertBridge.git
 ```
 
 ---
